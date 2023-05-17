@@ -1,5 +1,5 @@
- 
 
+## Intro  
 ### <div align="center">Hello, I'm Pascaline, a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵</div>  
   
 
@@ -30,13 +30,13 @@
 <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
 <a href="https://keras.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/keras.png" alt="Keras" height="50" /></a>  
 <a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/elasticsearch.png" alt="Elastic Search" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/python-original.svg" alt="Python" height="50" /></a>  
 <a href="https://www.tensorflow.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/tensorflow-icon.svg" alt="TensorFlow" height="50" /></a>  
 <a href="https://www.tableau.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/tableau.svg" alt="Tableau" height="50" /></a>  
 <a href="https://www.latex-project.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/latex.png" alt="LaTeX" height="50" /></a>  
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/?ref=geeek.orgskills-assets/python-original.svg" alt="Python" height="50" /></a>  
 </div>
 
 </td><td valign="top" width="33%">
@@ -68,36 +68,25 @@
 
 
 ## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+  
 
 <br/>  
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
-
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
   
 
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+  
+
+<br/>  
+
+  
+
+<br/>  
+
+
 <br />
 
 ----
