@@ -1,7 +1,4 @@
-<div align="center">
-<img src="" align="center" style="width: 100%" />
-</div>  
-  
+ 
 
 ### <div align="center">Hello, I'm Pascaline, a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵</div>  
   
