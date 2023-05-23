@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I'm Pascaline, a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵<br><br>🔭 I’m currently working on very cool projects<br><br>👯 I’m willing to collaborate on building communitites, and research projects.<br><br>🌍 I'm part of the DataForGood community<br><br>⚡ Fun fact: Bats is my spiritual animal<br><br>
+Hello, I'm Pascaline, a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵<br><br>🔭 I’m currently working on very cool projects<br><br>👯 I’m willing to collaborate on building communitites, and research projects.<br><br>🌍 I'm part of the DataForGood community<br><br>⚡ Fun fact: Bat is my spiritual animal<br><br>
 
 
 # 💻 Tech Stack:
