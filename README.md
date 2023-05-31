@@ -1,6 +1,7 @@
 # 💫 About Me:
 ### Hi, I'm Pascaline 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" height="280">
+
 ### I'm a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵<br><br>
 🔭 I’m currently working on very cool projects<br><br>
 👯 I’m willing to collaborate on building communitites, and research projects.<br><br>
