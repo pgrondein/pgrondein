@@ -1,9 +1,8 @@
 # 💫 About Me:
 ### Hi, I'm Pascaline 
 [<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" alt="Coder GIF" height="280">]
+I'm a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵<br><br>🔭 I’m currently working on very cool projects<br><br>👯 I’m willing to collaborate on building communitites, and research projects.<br><br>🌍 I'm part of the DataForGood community<br><br>⚡ Fun fact: Bat is my spiritual animal<br><br>
 <hr/>
-I'm Pascaline, a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵<br><br>🔭 I’m currently working on very cool projects<br><br>👯 I’m willing to collaborate on building communitites, and research projects.<br><br>🌍 I'm part of the DataForGood community<br><br>⚡ Fun fact: Bat is my spiritual animal<br><br>
-
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pascaline-grondein) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@PG_DataSE) 
