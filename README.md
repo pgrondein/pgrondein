@@ -1,9 +1,8 @@
 # 💫 About Me:
-Hello, I'm Pascaline, a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵<br><br>🔭 I’m currently working on very cool projects<br><br>👯 I’m willing to collaborate on building communitites, and research projects.<br><br>🌍 I'm part of the DataForGood community<br><br>⚡ Fun fact: Bat is my spiritual animal<br><br>
-
-### Hi, I'm Pascaline 
-[<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" alt="Coder GIF" height="280">][myprofile]
+## Hi, I'm Pascaline 
+[<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" alt="Coder GIF" height="280">]
 <hr/>
+I'm Pascaline, a full-time freelance Data Scientist | Data Engineer 🖥️ working remotely 🍵<br><br>🔭 I’m currently working on very cool projects<br><br>👯 I’m willing to collaborate on building communitites, and research projects.<br><br>🌍 I'm part of the DataForGood community<br><br>⚡ Fun fact: Bat is my spiritual animal<br><br>
 
 
 ## 🌐 Socials:
