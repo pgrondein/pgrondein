@@ -9,6 +9,8 @@
 🌍 I'm part of the DataForGood community<br><br>
 ⚡ Fun fact: Bat is my spiritual animal<br><br>
 
+“Data is a tool for enhancing intuition."
+
 
 
 # 🌐 Socials:
