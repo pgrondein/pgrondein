@@ -2,8 +2,11 @@
 ### Hi, I'm Pascaline 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" height="280">
 
-### I'm a full-time Data Scientist | Data Engineer 🖥️ 
+### I'm a full-time Data Scientist 🖥️ 
 ### 🎧 Working remotely 🍵<br><br>
+
+My work involves collecting, processing, and interpreting large amounts of data to improve operational efficiency, quality, and error management through tailored algorithms development.
+
 🔭 I’m currently working on very cool projects<br><br>
 👯 I’m willing to collaborate on building communitites, and research projects.<br><br>
 🌍 I'm part of the DataForGood community<br><br>
