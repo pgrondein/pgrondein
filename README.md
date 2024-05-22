@@ -2,7 +2,10 @@
 ### Hi, I'm Pascaline 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" height="280">
 
-### I'm a freelance Data Scientist 🖥️ Go check my website ==> https://www.pgrondeindata.com/
+### I'm a freelance Data Scientist 🖥️ 
+
+Go check my website ==> https://www.pgrondeindata.com/
+
 ### 🎧 Working remotely 🍵<br><br>
 
 My work involves collecting, processing, and interpreting large amounts of data to improve operational efficiency, quality, and error management through tailored algorithm development.
