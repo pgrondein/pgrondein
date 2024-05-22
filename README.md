@@ -1,3 +1,6 @@
+
+![banniere_github](https://github.com/pgrondein/pgrondein/assets/113172845/662002c4-1bbb-441f-8289-2a2e6f468de1)
+
 # 💫 About Me:
 ### Hi, I'm Pascaline 
 <img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" height="280">
