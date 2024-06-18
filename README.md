@@ -9,7 +9,7 @@
 
 Go check my website ==> https://www.pgrondeindata.com/
 
-I'm a member of a freelance cooperative called Astrolabe, 
+I'm a member of a freelance cooperative called Astrolabe,// 
 go check ==> https://www.astrolabe.coop/
 
 ### 🎧 Working remotely 🍵<br><br>
