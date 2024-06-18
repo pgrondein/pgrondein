@@ -3,14 +3,13 @@
 
 # 💫 About Me:
 ### Hi, I'm Pascaline 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" height="280">
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmUzZTBhMmUzNWI2YmM2NTIxNGM0NzEzZGU0YTRhMTAzMzIwOTNjMCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/HUplkVCPY7jTW/giphy.gif" height="220">
 
 ### I'm a freelance Data Scientist 🖥️ 
 
 Go check my website ==> https://www.pgrondeindata.com/
 
-I'm a member of a freelance cooperative called Astrolabe,// 
-go check ==> https://www.astrolabe.coop/
+I'm a member of a freelance cooperative called Astrolabe, go check ==> https://www.astrolabe.coop/
 
 ### 🎧 Working remotely 🍵<br><br>
 
