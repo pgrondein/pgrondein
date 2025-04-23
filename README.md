@@ -7,9 +7,7 @@
 
 ### I'm a freelance Data Scientist 🖥️ 
 
-Go check my website ==> https://www.pgrondeindata.com/
-
-I'm a member of a freelance cooperative called Astrolabe, go check ==> https://www.astrolabe.coop/
+Go check my website ==> https://www.pgdata.tech/
 
 ### 🎧 Working remotely 🍵<br><br>
 
