@@ -7,7 +7,7 @@
 
 ### I'm a freelance Data Scientist 🖥️ 
 
-Go check my website ==> https://www.pgdata.tech/
+Go check my website ==> https://pgdata.tech/
 
 ### 🎧 Working remotely 🍵<br><br>
 
